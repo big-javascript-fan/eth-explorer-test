@@ -11,10 +11,8 @@ export default () => (
     }}
   >
     {" "}
-                                              {/* 10px */}
     <h1 style={{ textAlign: "center", marginRight: "0px" }}>
       Ethereum Block Explorer
     </h1>
-    {/* <img src="./Ethereum_logo_2014.svg" alt="Ethereum logo" width="50" height="100"/> */}
   </div>
 )

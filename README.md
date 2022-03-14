@@ -1,8 +1,6 @@
 # Ethereum Block Explorer
 
-A React.js and Ethereum project
-
-See live alpha version at https://gallant-brown-dfad0f.netlify.com/
+Ethereum explorer project
 
 ## How to run
 
